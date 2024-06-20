@@ -1,6 +1,6 @@
 <?php
 
-$ano = isset($_GET['a']);
+$ano = ($_GET['a']);
 
 if ($ano === null) {
     echo "Por favor, forneça o ano. Exemplo: ?a=2005";
