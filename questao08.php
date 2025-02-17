@@ -1,3 +1,8 @@
+<!-- ### 8. Função de 2º Grau
+
+Faça um programa que calcule e exiba os resultados de uma 
+função de 2º Grau `f(x) = ax^2 + bx + c`. -->
+
 <?php
 
 $x = isset($_GET['x']) ? (float) $_GET['x'] : null;

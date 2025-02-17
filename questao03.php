@@ -1,3 +1,7 @@
+<!-- ### 3. Par ou Ímpar
+
+Faça um programa que leia um número e mostre se ele é par ou ímpar. -->
+
 <?php
 
 $num1 = ($_GET['num']);

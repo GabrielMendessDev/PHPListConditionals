@@ -1,3 +1,8 @@
+<!-- ### 4. Soma Par ou Ímpar
+
+Faça um programa que leia 3 números e mostre 
+se o valor de sua soma é par ou ímpar. -->
+
 <?php
 
 $num1 = ($_GET['n1']);

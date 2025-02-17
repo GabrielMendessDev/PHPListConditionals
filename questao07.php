@@ -1,3 +1,8 @@
+<!-- ### 7. Função de 1º Grau
+
+Faça um programa que calcule e exiba o resultado de uma 
+função de 1º Grau `f(x) = ax + b`. -->
+
 <?php
 
 $x = ($_GET['x']);

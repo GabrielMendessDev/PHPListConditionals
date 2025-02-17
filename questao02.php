@@ -1,3 +1,7 @@
+<!-- ### 2. Maior de Três Números
+
+Faça um programa que leia 3 números inteiros e apresente o maior deles. -->
+
 <?php
 
 $num1 = ($_GET['n1']);
